@@ -3,3 +3,5 @@ Rencana Konten Fajar
 - Membuat drone fix wings
   * dan drone
 - Belajar devops
+- Menjadi orang yang lebih baik
+- Membuat website stock bahan kimia
