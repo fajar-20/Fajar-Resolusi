@@ -1,3 +1,4 @@
 Rencana Konten Fajar
 
 - Membuat drone fix wings
+  * dan drone
