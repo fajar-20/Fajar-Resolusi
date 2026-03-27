@@ -2,3 +2,4 @@ Fajar Resolusi
 - Saya ingin dalam 1 tahun ini bisa menjalankan program sendiri
 - Target bahasa pemrograman adalah html,css, php, laravel
 - target selanjutnya adalah belajar devops
+- Saya ingin menjalankan hobby saya juga untuk merakit drone dan drone fix wings
